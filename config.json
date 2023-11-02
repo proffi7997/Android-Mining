@@ -9,7 +9,7 @@
 	
 	"user": "3EJJcWigzg3XBxjXVeNbmBKqscQ6Rxt8Vp.phoneFarm",
 	"algo": "verus",
-	"threads": 2,
+	"threads": 8,
 	"cpu-priority": 1,
 	"retry-pause": 5,
 	"api-allow": "192.168.0.0/16",

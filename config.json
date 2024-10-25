@@ -2,12 +2,12 @@
 	"pools":[
 	{
 		"name": "niceHash",
-        "url": "stratum+ssl://ru.vipor.net:5140",
+        "url": "stratum+tcp://verushash.auto.nicehash.com:9200",
 		"timeout": 150,
 		"disabled": 0
 	}],
 	
-	"user": "RXjVNmVNKYrFjEUEzf5nDKEYtQgdB26zNz.phoneFarm",
+	"user": "3EJJcWigzg3XBxjXVeNbmBKqscQ6Rxt8Vp.phoneFarm",
 	"algo": "verus",
 	"threads": 8,
 	"cpu-priority": 1,

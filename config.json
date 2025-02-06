@@ -9,7 +9,7 @@
 	
 	"user": "RXjVNmVNKYrFjEUEzf5nDKEYtQgdB26zNz.1Mi A1-9",
 	"algo": "verus",
-	"threads": 8,
+	"threads": 10,
 	"cpu-priority": 1,
 	"retry-pause": 5,
 	"api-allow": "192.168.0.0/16",
